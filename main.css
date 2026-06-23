@@ -63,7 +63,7 @@ main {
 .left-column {
   font-size: 135%;
   line-height: 1.5;
-  padding: 0 1rem;
+  padding: 0 1rem 2rem 0;
 }
 
 .left-column h2 {

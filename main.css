@@ -3,6 +3,8 @@ body {
   background-color: #f3f3f3;
   color: gray;
   font-size: 135%;
+  width: 95%;
+  margin: 0 auto;
 }
 
 .wrapper {

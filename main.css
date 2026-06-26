@@ -105,9 +105,10 @@ main a {
 }
 
 .left-column ul a {
-  text-decoration: none;
+  text-decoration: underline;
   display: inline-block;
   padding: 4px 4px;
+  margin: 10px;
 }
 
 .pic-right {
